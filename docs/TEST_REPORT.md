@@ -1,5 +1,9 @@
 # 首版测试记录
 
+## 云端发布记录（2026-10-31）
+
+已上传至公开仓库 `Fancy666888/Defend-Naiwa`，Pages发布方式为workflow，网站地址为 `https://fancy666888.github.io/Defend-Naiwa/`。GitHub Actions上的测试、构建、图片音频副本检查均通过。首次部署在Pages启用前触发，配置步骤404；启用Pages后已重试。最新上线结果以仓库Actions为准，未将在线HTTP检查等同真机浏览器操作验收。
+
 ## GitHub Pages 发布准备验证（2026-10-31）
 
 本地已补充Actions自动部署工作流、相对base与图片音频路径适配。`npm test`为23项通过（新增根路径/仓库子路径解析回归）；`npm run build`通过，图片与音频发布副本检查通过。未推送到GitHub，未执行云端Actions，未取得在线网址。

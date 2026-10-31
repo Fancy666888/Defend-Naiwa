@@ -1,6 +1,6 @@
 # 发布到 GitHub Pages
 
-游戏是静态网页，已准备好 GitHub Actions 工作流、运行素材及子目录资源路径。本文件是部署指南；截至编写时未创建远程仓库、未上传、未发布。
+游戏是静态网页，已准备好 GitHub Actions 工作流、运行素材及子目录资源路径。项目现已创建公开仓库 [Fancy666888/Defend-Naiwa](https://github.com/Fancy666888/Defend-Naiwa)，Pages已设置为GitHub Actions发布。网站地址为 https://fancy666888.github.io/Defend-Naiwa/ ，具体发布结果见仓库Actions。下方保留首次设置与日后更新方法。
 
 ## 第一次发布
 

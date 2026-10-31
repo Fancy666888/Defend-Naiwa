@@ -1,5 +1,7 @@
 # 保卫奶蛙 · 奶香荷塘
 
+[在线试玩](https://fancy666888.github.io/Defend-Naiwa/) · [GitHub 仓库](https://github.com/Fancy666888/Defend-Naiwa)
+
 使用现有角色素材制作的一关网页塔防挑战版（v0.2）。Vite + TypeScript + Phaser 3，固定路线，四种三级炮塔，十波敌人、134只捣蛋鬼。
 
 ## 本地运行
@@ -18,7 +20,7 @@ npm run build
 npm run preview
 ```
 
-`dist/` 是正式构建产物，可以由静态HTTP服务器提供。当前没有部署到公网，也没有任何在线账号或数据服务。
+`dist/` 是正式构建产物，可以由静态HTTP服务器提供。网站由 GitHub Pages 托管，不需要游戏账号或后端数据服务。
 
 ## 操作
 
@@ -57,4 +59,4 @@ npm run preview
 
 ## 在线发布
 
-已提供 GitHub Pages 自动部署工作流及资源路径适配。完整步骤见 [部署指南](docs/DEPLOYMENT.md)。当前尚未上传或发布，部署需由仓库的main分支触发。
+已提供 GitHub Pages 自动部署工作流及资源路径适配。完整步骤见 [部署指南](docs/DEPLOYMENT.md)。远程仓库为 `Fancy666888/Defend-Naiwa`；推送main分支会自动测试、构建并更新GitHub Pages。
