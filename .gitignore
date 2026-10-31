@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.DS_Store
+output/
+*.log
+
+# Keep full-resolution source artwork local; runtime copies live in public/.
+/*.png

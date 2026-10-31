@@ -1,0 +1,438 @@
+[
+  {
+    "file": "一级功夫奶蛙.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "bytes": 916774,
+    "sha256": "70562d11ec5054a6fe8fe035bf18c3d04aa77a3d7625aeafefbeab3e3e17734b",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.9993647123463291
+  },
+  {
+    "file": "一级大笑奶蛙.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "bytes": 846720,
+    "sha256": "9971d3f4baab81352508d6bbe3843f23820845df64fac3aab1b0d2314581ba7e",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.9994728193544613
+  },
+  {
+    "file": "一级奶狗.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "bytes": 1036322,
+    "sha256": "dc72f515db3fce09ecd260fb415f405077c22db52c33aabf3521d139d7f961ab",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.9991605808780324
+  },
+  {
+    "file": "三级功夫奶蛙.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "bytes": 1744869,
+    "sha256": "2eecf420593c383e2a0c81ef55b51de994093fd244a605f8b684c7cf4143e921",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.9990721875007949
+  },
+  {
+    "file": "三级大笑奶蛙.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "bytes": 1694147,
+    "sha256": "21548d469cd0cde44d2079c57531cc8de6ca9d21b7649346bf07f6b5b8d60af3",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.9998085870032483
+  },
+  {
+    "file": "三级奶狗.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "bytes": 1395597,
+    "sha256": "7e19a8959f7457ee0c53f20ffb58e4983870e5c0c7d54f3793d885a68e6d22d7",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.9985774389576958
+  },
+  {
+    "file": "三级奶鼠.png",
+    "width": 1312,
+    "height": 1199,
+    "mode": "RGBA",
+    "bytes": 1715035,
+    "sha256": "67452c6e1ad5187c54460e567f720e2326d70b0762792b4bd14cc8d86799cadb",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.9998359913749263
+  },
+  {
+    "file": "二级功夫奶蛙.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "bytes": 1182809,
+    "sha256": "f3b8d9b7020f79101bd9b52bbd7920a1b65e6e4f6ec9ac16470d1db7a9ef925c",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.9989659882633944
+  },
+  {
+    "file": "二级大笑奶蛙.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "bytes": 1150371,
+    "sha256": "6b77d175181c316e5656897937b1f96e907965ff20c6164cb7c456208edd3d72",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.9994467464877941
+  },
+  {
+    "file": "二级奶狗.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "bytes": 1184434,
+    "sha256": "de07c5eed2da6cd9c920d30d7f401e4b06af7eb67de44e390ee70e22d91a0ae6",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.9986225895316805
+  },
+  {
+    "file": "二级奶鼠.png",
+    "width": 1312,
+    "height": 1199,
+    "mode": "RGBA",
+    "bytes": 1257357,
+    "sha256": "9d183aa81c2b3ec6957f74aa8ed8572c8857d072b703f5f3e559fa8fb88fb0b7",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.9996465550560426
+  },
+  {
+    "file": "入口建筑.png",
+    "width": 1312,
+    "height": 1199,
+    "mode": "RGBA",
+    "bytes": 1271242,
+    "sha256": "f4667f7ddbb47b291af8b503725c42eb03a85962cc7bdcb197bd43e53906e31c",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.9996185845928518
+  },
+  {
+    "file": "初始奶蛙之心.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "bytes": 963049,
+    "sha256": "9d100d41ef8028e39ac35d213653cf9a2015aa041958813dacb77ce4cb80687f",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.9995389554064951
+  },
+  {
+    "file": "初级奶鼠.png",
+    "width": 1312,
+    "height": 1199,
+    "mode": "RGBA",
+    "bytes": 939340,
+    "sha256": "ae91ec3c9db637637bc6b781dc40be86652a561d71a4d5d571e6bf77bb9bc66e",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.9995925212066966
+  },
+  {
+    "file": "受伤奶蛙之心.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "bytes": 1087573,
+    "sha256": "49b4162a790c0ccc6db7dc2268f99896e35fad80c4e61a4f8dbc3884526f598c",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.9995478583365766
+  },
+  {
+    "file": "地图素材.png",
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGBA",
+    "bytes": 1942951,
+    "sha256": "9b8560923b53499d622dd59f51f70e446b75f882d6f0169dafe36255099b5e7f",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "transparent_fraction": 1.0
+  },
+  {
+    "file": "大笑冲击波.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "bytes": 1762723,
+    "sha256": "6530147a016ca436bc0abfb015b7bc643529554eca65aec25462f4cdac1761f1",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.9999662960504059
+  },
+  {
+    "file": "奶瓶.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "bytes": 974882,
+    "sha256": "7296b4981a6edd063b41ee79ab0d0cc547b69fcf0ff8f943fe2bbc98636c565a",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.9993640764227518
+  },
+  {
+    "file": "奶蛙之心祭坛.png",
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGBA",
+    "bytes": 1875315,
+    "sha256": "2299028568caaa18d0f2344b90833535807c7bffc7c2bba2b70ad091639c7e0d",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "transparent_fraction": 1.0
+  },
+  {
+    "file": "技能能量爱心.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "bytes": 1335444,
+    "sha256": "815ee7abb7112e4fdbca400f361d719cb75dec9f58498b9436d96b764a73b4a9",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.9989882455885981
+  },
+  {
+    "file": "水豚噜噜怪.png",
+    "width": 1278,
+    "height": 1230,
+    "mode": "RGBA",
+    "bytes": 974948,
+    "sha256": "5c041190a5d4a06d3222362d19ad39a83c975616c628edc74f7abecfe2759fbe",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.9996577477511864
+  },
+  {
+    "file": "游戏LOGO.png",
+    "width": 1774,
+    "height": 887,
+    "mode": "RGBA",
+    "bytes": 1266874,
+    "sha256": "2bc5316483fe1a314803029452c448c10182c5563faed0c992c28f131af1a7bb",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.9998474774679734
+  },
+  {
+    "file": "游戏功能图标.png",
+    "width": 1774,
+    "height": 887,
+    "mode": "RGBA",
+    "bytes": 1136524,
+    "sha256": "d7c61ad0ee944863fff1a4749ba3c07f8e38536d8476227793bd27fc7e90c6f8",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.9986755960135694
+  },
+  {
+    "file": "炮塔选择.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGB",
+    "bytes": 1630233,
+    "sha256": "a6320484fa17576359d9ad600cf6f0f9f5863858fef5648e4b75aaf9d0e7822f",
+    "alpha_extrema": null,
+    "transparent_fraction": 0
+  },
+  {
+    "file": "牛来怪.png",
+    "width": 1226,
+    "height": 1283,
+    "mode": "RGBA",
+    "bytes": 1300236,
+    "sha256": "b2ee85cb95c7685fe9406e0840e40ed3024989095453dfecee5cc443a66bdc2e",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.9994621598288066
+  },
+  {
+    "file": "破碎奶蛙之心.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "bytes": 1184887,
+    "sha256": "1b5a92ac6081e92507c0816a96522b1b3a64047357feef54d0c230e183ea0be8",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.9997748830536541
+  },
+  {
+    "file": "笑晕特效.png",
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGBA",
+    "bytes": 1333999,
+    "sha256": "a3b29ad30ec5d4c6b43aafabf33b654686e6e6bc7af3301ce03c1f8b1cb77856",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "transparent_fraction": 1.0
+  },
+  {
+    "file": "终极boss肥嘟嘟.png",
+    "width": 1312,
+    "height": 1199,
+    "mode": "RGBA",
+    "bytes": 1557067,
+    "sha256": "4a44468c93f08808b84dd36f881f7b2b5ea73efb4bc247322b7caeb4d48d1804",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.9995423015114221
+  },
+  {
+    "file": "草地背景.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGB",
+    "bytes": 1907081,
+    "sha256": "6ed6efd9a42b550d863aecb62fb7a9005ccaa377cb6def150908d9b20194f509",
+    "alpha_extrema": null,
+    "transparent_fraction": 0
+  },
+  {
+    "file": "荷叶.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "bytes": 1366598,
+    "sha256": "0098976f18e56eba77be10c3cd3f1470296a6023374ce2e576f816c1b602d4a6",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.9992756830455143
+  },
+  {
+    "file": "道路组件.png",
+    "width": 1774,
+    "height": 887,
+    "mode": "RGBA",
+    "bytes": 1815244,
+    "sha256": "e7c3a791b299bb3c26cab78612b4b6ee4c1e4ca66b3c6ec0c8357fb36ca4d97b",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.9998544680840247
+  },
+  {
+    "file": "邪恶肥嘟嘟.png",
+    "width": 1312,
+    "height": 1199,
+    "mode": "RGBA",
+    "bytes": 986112,
+    "sha256": "0bbce1c3d63a757aa628d46123c32c3c9985ff1339c1dab043ca733c5887da50",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.9993922781179438
+  },
+  {
+    "file": "重伤奶蛙之心.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "bytes": 1356518,
+    "sha256": "8b815b6896b1b24dd47c2266e0ebdcc6251f3b1f6f409829688a603bce6fd02a",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.9997799704422722
+  },
+  {
+    "file": "卖萌冲刺的小鼠战士.png",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "bytes": 892312,
+    "sha256": "68f8a448dab89fbe021a2bbc1abe6840d623e65594a231bc8e8558126e0aa14a",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.999303027759336
+  }
+]

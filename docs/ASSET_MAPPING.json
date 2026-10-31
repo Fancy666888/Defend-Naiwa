@@ -1,0 +1,304 @@
+{
+  "laugh1": {
+    "source": "一级大笑奶蛙.png",
+    "url": "/assets/laugh1.png",
+    "size": [
+      271,
+      400
+    ]
+  },
+  "laugh2": {
+    "source": "二级大笑奶蛙.png",
+    "url": "/assets/laugh2.png",
+    "size": [
+      348,
+      400
+    ]
+  },
+  "laugh3": {
+    "source": "三级大笑奶蛙.png",
+    "url": "/assets/laugh3.png",
+    "size": [
+      397,
+      400
+    ]
+  },
+  "dog1": {
+    "source": "一级奶狗.png",
+    "url": "/assets/dog1.png",
+    "size": [
+      357,
+      400
+    ]
+  },
+  "dog2": {
+    "source": "二级奶狗.png",
+    "url": "/assets/dog2.png",
+    "size": [
+      392,
+      400
+    ]
+  },
+  "dog3": {
+    "source": "三级奶狗.png",
+    "url": "/assets/dog3.png",
+    "size": [
+      400,
+      398
+    ]
+  },
+  "kungfu1": {
+    "source": "一级功夫奶蛙.png",
+    "url": "/assets/kungfu1.png",
+    "size": [
+      399,
+      400
+    ]
+  },
+  "kungfu2": {
+    "source": "二级功夫奶蛙.png",
+    "url": "/assets/kungfu2.png",
+    "size": [
+      400,
+      395
+    ]
+  },
+  "kungfu3": {
+    "source": "三级功夫奶蛙.png",
+    "url": "/assets/kungfu3.png",
+    "size": [
+      400,
+      385
+    ]
+  },
+  "mouse1": {
+    "source": "初级奶鼠.png",
+    "url": "/assets/mouse1.png",
+    "size": [
+      364,
+      400
+    ]
+  },
+  "mouse2": {
+    "source": "二级奶鼠.png",
+    "url": "/assets/mouse2.png",
+    "size": [
+      392,
+      400
+    ]
+  },
+  "mouse3": {
+    "source": "三级奶鼠.png",
+    "url": "/assets/mouse3.png",
+    "size": [
+      400,
+      365
+    ]
+  },
+  "feidudu": {
+    "source": "邪恶肥嘟嘟.png",
+    "url": "/assets/feidudu.png",
+    "size": [
+      377,
+      400
+    ]
+  },
+  "niulai": {
+    "source": "牛来怪.png",
+    "url": "/assets/niulai.png",
+    "size": [
+      357,
+      400
+    ]
+  },
+  "lulu": {
+    "source": "水豚噜噜怪.png",
+    "url": "/assets/lulu.png",
+    "size": [
+      351,
+      400
+    ]
+  },
+  "boss": {
+    "source": "终极boss肥嘟嘟.png",
+    "url": "/assets/boss.png",
+    "size": [
+      400,
+      376
+    ]
+  },
+  "littleMouse": {
+    "source": "卖萌冲刺的小鼠战士.png",
+    "url": "/assets/littleMouse.png",
+    "size": [
+      371,
+      400
+    ]
+  },
+  "heart": {
+    "source": "初始奶蛙之心.png",
+    "url": "/assets/heart.png",
+    "size": [
+      400,
+      346
+    ]
+  },
+  "heartHurt": {
+    "source": "受伤奶蛙之心.png",
+    "url": "/assets/heartHurt.png",
+    "size": [
+      400,
+      378
+    ]
+  },
+  "heartBroken": {
+    "source": "破碎奶蛙之心.png",
+    "url": "/assets/heartBroken.png",
+    "size": [
+      400,
+      320
+    ]
+  },
+  "lotus": {
+    "source": "荷叶.png",
+    "url": "/assets/lotus.png",
+    "size": [
+      400,
+      356
+    ]
+  },
+  "entrance": {
+    "source": "入口建筑.png",
+    "url": "/assets/entrance.png",
+    "size": [
+      400,
+      353
+    ]
+  },
+  "altar": {
+    "source": "奶蛙之心祭坛.png",
+    "url": "/assets/altar.png",
+    "size": [
+      400,
+      273
+    ]
+  },
+  "milk": {
+    "source": "奶瓶.png",
+    "url": "/assets/milk.png",
+    "size": [
+      331,
+      400
+    ]
+  },
+  "energy": {
+    "source": "技能能量爱心.png",
+    "url": "/assets/energy.png",
+    "size": [
+      400,
+      329
+    ]
+  },
+  "logo": {
+    "source": "游戏LOGO.png",
+    "url": "/assets/logo.png",
+    "size": [
+      656,
+      248
+    ]
+  },
+  "grass": {
+    "source": "草地背景.png",
+    "url": "/assets/grass.png",
+    "size": [
+      768,
+      768
+    ]
+  },
+  "wave": {
+    "source": "大笑冲击波.png",
+    "url": "/assets/wave.png",
+    "size": [
+      400,
+      384
+    ]
+  },
+  "stun": {
+    "source": "笑晕特效.png",
+    "url": "/assets/stun.png",
+    "size": [
+      400,
+      234
+    ]
+  },
+  "pond": {
+    "source": "地图素材.png",
+    "crop": [
+      0,
+      0,
+      956,
+      550
+    ],
+    "url": "/assets/pond.png",
+    "size": [
+      260,
+      154
+    ]
+  },
+  "mushroom": {
+    "source": "地图素材.png",
+    "crop": [
+      960,
+      0,
+      1536,
+      570
+    ],
+    "url": "/assets/mushroom.png",
+    "size": [
+      238,
+      220
+    ]
+  },
+  "flowers": {
+    "source": "地图素材.png",
+    "crop": [
+      0,
+      555,
+      597,
+      1024
+    ],
+    "url": "/assets/flowers.png",
+    "size": [
+      260,
+      193
+    ]
+  },
+  "rocks": {
+    "source": "地图素材.png",
+    "crop": [
+      600,
+      600,
+      1003,
+      1024
+    ],
+    "url": "/assets/rocks.png",
+    "size": [
+      260,
+      193
+    ]
+  },
+  "flower": {
+    "source": "地图素材.png",
+    "crop": [
+      1006,
+      575,
+      1536,
+      1024
+    ],
+    "url": "/assets/flower.png",
+    "size": [
+      260,
+      195
+    ]
+  }
+}
